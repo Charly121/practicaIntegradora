@@ -1,1 +1,1 @@
-repositorio
+repositorio: https://github.com/Charly121/practicaIntegradora.git
